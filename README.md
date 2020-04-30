@@ -61,3 +61,5 @@ win10 core i7 8
 ```
 perfect!
 
+---
+ Now, just click [here](./new.py) and download then move `new.py` to `\Python\Python37\Lib\` then have fun!
